@@ -1,0 +1,6 @@
+[submodule "assignments/ca4/Terminal-Music-Player"]
+	path = assignments/ca4/Terminal-Music-Player
+	url = https://github.com/SMani24/Terminal-Music-Player.git
+[submodule "projects/Doodle-Jump"]
+	path = projects/Doodle-Jump
+	url = https://github.com/SMani24/Doodle-Jump.git
