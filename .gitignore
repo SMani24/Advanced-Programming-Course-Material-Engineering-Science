@@ -1,0 +1,20 @@
+# Local tools and operating system files
+/.agents/
+/.aws/
+/.codex/
+.DS_Store
+__pycache__/
+
+# Build output
+*.o
+*.out
+*.exe
+**/a.out
+/assignments/ca1/task_manager
+/assignments/ca2/sudoku
+/assignments/ca2/anagrams
+/assignments/ca2/queens
+/assignments/ca3/installer
+
+# Full backups include copies of the project repositories and Git history
+/archives/backups/
